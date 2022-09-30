@@ -7,11 +7,11 @@ An almost identical version of this repo exists in a [separate repo](https://git
 
 The code in this repo is based on work from my project for the University of Cambridge MPhil in Computational Biology. I have my supervisor, Dr Aylwyn Scally, to thank for his extensive support during the project. 
 
-I recommend reading, or at least skimming through, the sections of the [written thesis](/written_thesis.pdf) to give context to the contents of the repo. The folder names (with their numbers) in this repo correspond to sections in the written thesis. 
+I recommend reading, or at least skimming through, the sections of the [written thesis](/thesis_written.pdf) to give context to the contents of the repo. The folder names (with their numbers) in this repo correspond to sections in the written thesis. 
 
 
 ## Contents
-The project is titled "Investigating the spread of ancestry using forward spatial population genetic simulations". This is done using SLiM 3.0 (***), a specific framework for forward genetic simulation. In particular, I explored results from Olalde et al 2018[^1], which imply that approximately 90% of Britain's gene pool was replaced in the years 2450BC-1000BC. For more details, see the written thesis (***)
+The project is titled "Investigating the spread of ancestry using forward spatial population genetic simulations". This is done using SLiM 3.0 (***), a specific framework for forward genetic simulation. In particular, I explored results from Olalde et al 2018[^1], which imply that approximately 90% of Britain's gene pool was replaced in the years 2450BC-1000BC. For more details, see the [written thesis](/thesis_written.pdf).
 
 
 
