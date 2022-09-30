@@ -3,7 +3,7 @@
 ## About this repository 
 This repo accompanies my master's thesis on spatial population genetics. The repo may be useful to those who wish to understand how to approach questions in population genetics computationally, or to those who wish to use similar methods to explore their own hypotheses.
 
-An almost identical version of this repo exists in a [separate repo](https://github.com/dg622cam/thesis_code) linked to my university email account (which expires). Both repositories are authored by myself, Dexter Goodkind. 
+An almost identical version of this repo exists in a [separate repo](https://github.com/dg622cam/thesis_code) linked to my university email account (which expires). Both repositories were authored by myself, Dexter Goodkind. 
 
 The code in this repo is based on work from my project for the University of Cambridge MPhil in Computational Biology. I have my supervisor, Dr Aylwyn Scally, to thank for his extensive support during the project. 
 
