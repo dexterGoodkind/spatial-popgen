@@ -16,6 +16,6 @@ The project is titled "Investigating the spread of ancestry using forward spatia
 
 
 
-## References
+
 [^1]: Haller, B.C., & Messer, P.W. (2019). SLiM 3: Forward genetic simulations beyond the Wright–Fisher model. Molecular Biology and Evolution 36(3), 632–637. https://doi.org/10.1093/molbev/msy228.
 [^2]: Olalde, I., Brace, S., Allentoft, M. et al. The Beaker phenomenon and the genomic transformation of northwest Europe. Nature 555, 190–196 (2018). https://doi.org/10.1038/nature25738. 
