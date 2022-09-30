@@ -7,7 +7,7 @@ An almost identical version of this repo exists in a [separate repo](https://git
 
 The code in this repo is based on work from my project for the University of Cambridge MPhil in Computational Biology. I have my supervisor, Dr Aylwyn Scally, to thank for his extensive support during the project. 
 
-I recommend reading, or at least skimming through, the sections of the written thesis to give context to the contents of the repo. The folder names (with their numbers) in this repo correspond to sections in the written thesis. 
+I recommend reading, or at least skimming through, the sections of the [written thesis](/written_thesis.pdf) to give context to the contents of the repo. The folder names (with their numbers) in this repo correspond to sections in the written thesis. 
 
 
 ## Contents
