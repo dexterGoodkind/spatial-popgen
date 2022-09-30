@@ -11,11 +11,11 @@ I recommend reading, or at least skimming through, the sections of the [written 
 
 
 ## Contents
-The project is titled "Investigating the spread of ancestry using forward spatial population genetic simulations". This is done using SLiM 3.0 (***), a specific framework for forward genetic simulation. In particular, I explored results from Olalde et al 2018[^2], which imply that approximately 90% of Britain's gene pool was replaced in the years 2450BC-1000BC. For more details, see the [written thesis](/thesis_written.pdf).
+The project is titled "Investigating the spread of ancestry using forward spatial population genetic simulations". This is done using SLiM 3.0 [^1], a specific framework for forward genetic simulation. In particular, I explored results from Olalde et al 2018[^2], which imply that approximately 90% of Britain's gene pool was replaced in the years 2450BC-1000BC. For more details, see the [written thesis](/thesis_written.pdf).
 
 
 
 
 ## References
-[^1] Haller, B.C., & Messer, P.W. (2019). SLiM 3: Forward genetic simulations beyond the Wright–Fisher model. Molecular Biology and Evolution 36(3), 632–637. https://doi.org/10.1093/molbev/msy228.
+[^1]: Haller, B.C., & Messer, P.W. (2019). SLiM 3: Forward genetic simulations beyond the Wright–Fisher model. Molecular Biology and Evolution 36(3), 632–637. https://doi.org/10.1093/molbev/msy228.
 [^2]: Olalde, I., Brace, S., Allentoft, M. et al. The Beaker phenomenon and the genomic transformation of northwest Europe. Nature 555, 190–196 (2018). https://doi.org/10.1038/nature25738. 
